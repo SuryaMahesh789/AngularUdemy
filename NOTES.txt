@@ -1,0 +1,4 @@
+NOTES - https://docs.google.com/document/d/1ZOaVkZLkhx1LxOXgXEk9QQDVL-l-YXfeX8lRQcw3L2c/edit
+
+Playground - https://angular.dev/playground
+
